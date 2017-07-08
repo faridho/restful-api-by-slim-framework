@@ -1,29 +1,12 @@
-# README #
+What is REST API?
 
-This README would normally document whatever steps are necessary to get your application up and running.
+REST (REpresentational State Transfer) is one of architecture communication method which often in development web services.
 
-### What is this repository for? ###
+REST of architecture, commonly run via HTTP (Hypertext Transfer Protocol), involves the process of reading specific web page that loads a file XML or JSON. This files are describes and that loads content to be presented. After going through a process a special definition, customers can access the intended application interface.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+REST is often used in mobile application, social media, mashup tools, and automated business processes.
 
-### How do I get set up? ###
+What is SLIM Framework?
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+PHP micro framework that helps PHP developers quickly and easily write web applications and APIs. Think of it as a core set of tools with which a developer can build amazing things."
+Called micro framework bacause Slim framework which focus on the basic needs required of a web application such as: received a HTTP request, send request to appropriate code, and restore HTTP responses.
