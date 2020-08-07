@@ -21,6 +21,8 @@ http://localhost:8080
 |---|---|
 |  http://localhost:8080/addmovie | To add new movie list into table in database
 | http://localhost:8080/getmovie/{id}  | Select a movie by parameter ID  
+| http://localhost:8080/updatemovie/{id} | Update a movie by parameter ID
+| http://localhost:8080/updatemovie/{id}/deletemovie/{id} | Delete a movie by parameter ID
 
 
 
