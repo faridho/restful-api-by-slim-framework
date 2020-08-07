@@ -15,5 +15,12 @@ Open browser then type url below
 ```
 http://localhost:8080
 ```
+## Endpoints
+Url | Function 
+--- | --- | --- 
+http://localhost:8080/addmovie | To add new movie list into table in database
+--- | --- | --- 
+http://localhost:8080/getmovie/{id} | Select a movie by parameter ID
+
 
 
